@@ -224,7 +224,7 @@ export const Teamdata = {
     {
       name : "Armaan Jagirdar",
       position : "General Secretary",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/v1723891633/ArmaanJagirdar_-_ARMAAN_JAGIRDAR_e7cwt6.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759697757/ea95c316-7c38-4773-94f2-85ca2d21789a_lrzute.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/armaan-jagirdar-183b47285/",
         img: Linkedin,
@@ -302,7 +302,7 @@ export const Teamdata = {
     {
       name : "Keval Ambani",
       position : "Joint Secretary",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759693004/IMG_20250909_091519_046_-_Keval_Ambani_v1mw0k.webp",
       linkdin : {
         link:"https://www.linkedin.com/in/keval-ambani-9ba99532a/",
         img: Linkedin,
@@ -315,7 +315,7 @@ export const Teamdata = {
     {
       name : "Vinayak Jain",
       position : "Lead of Operations",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,w_400,h_400,ar_1:1,g_auto/v1723891484/IMG_20240813_214554_-_VINAYAK_JAIN_1_tafnlp.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759693063/IMG_20250818_134317_-_Vinayak_Jain_kjzkax.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/vinayak-jain-21b493298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
@@ -341,7 +341,7 @@ export const Teamdata = {
     {
       name : "Bhupesh Kumar",
       position : "Development Lead",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759692894/IMG_3310_-_N00B_GaMeR_fm7l1m.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/bhupesh-k-185327366/",
         img: Linkedin,
