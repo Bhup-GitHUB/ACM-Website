@@ -237,7 +237,7 @@ export const Teamdata = {
     {
       name : "Ansh Madaan",
       position : "General Secretary",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,ar_1:1/v1723894499/IMG_8235_-_ANSH_MADAAN_aamfih.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759956962/5c70bccb-59ba-432d-b37d-35f8e78293aa_-_ANSH_MADAAN_a5hx0d.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/ansh-madaan-5362b92a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         img: Linkedin,
@@ -289,7 +289,7 @@ export const Teamdata = {
     {
       name : "Kshitiz Jain",
       position : "Joint Secretary",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,w_1840,h_1840,ar_1:1,g_auto/v1723733187/photo-with-bg-edited_-_KSHITIZ_JAIN_yw5gig.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759957095/20250622_212737_1_-_KSHITIZ_JAIN_zm896z.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/kshitiz-jain2005/",
         img: Linkedin,
@@ -328,7 +328,7 @@ export const Teamdata = {
     {
       name : "Yajat Pahuja",
       position : "Alumni Cell Secretary",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,w_500,h_500,ar_1:1/v1723894124/IMG-20240814-WA0039_-_YAJAT_PAHUJA_mdz1ml.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759853121/f60f07f0-197e-475d-8e2e-c02df256b419_v9iee0.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/yajat-pahuja-275a30275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
@@ -406,7 +406,7 @@ export const Teamdata = {
     {
       name : "Aryan Gupta",
       position : "Director of Communications",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,w_1200,h_1200,ar_1:1/v1726418882/WhatsApp_Image_2024-09-13_at_16.47.30_fa5cba9b_tnygyx.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759957229/3ED81CF4-D8F8-4EF5-A9F1-E37507A9CBCB_-_ARYAN_GUPTA_izykj8.jpg",
       linkdin : {
         link:"http://www.linkedin.com/in/aryan-gupta-17ba3a243",
         img: Linkedin,
