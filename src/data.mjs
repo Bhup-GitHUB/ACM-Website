@@ -446,9 +446,308 @@ export const Teamdata = {
    ],
    core : [
     {
-      name : "Core Member 1",
+      name : "Aanya Agarwal",
       position : "Core",
-      img: face,
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Ansh Bansal",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Ayushi Aggarwal",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Bhoomi Mahna",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Chitvi Joshi",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Diya Garg",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Garvita",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Gauransh Arora",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Gourav",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Kasvi Bansal",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Kavya Singal",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Lakshay Jain",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Lavdeep Singh",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Manvi Gajrani",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Mohan Arora",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Navjot Singh",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Naitik Garg",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Raghav Garg",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Rudraksh Chugh",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Sanjam Wadhwa",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Vandit Gupta",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Vansh Wadhwa",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Vignesh Jain",
+      position : "Core",
+      img: "",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+    {
+      name : "Yashmit Vaish",
+      position : "Core",
+      img: "",
       linkdin : {
         link:"",
         img: Linkedin,
