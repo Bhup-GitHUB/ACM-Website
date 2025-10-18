@@ -380,7 +380,7 @@ export const Teamdata = {
     {
       name : "Gurleen Kaur",
       position : "Head of Collaboration & Outreach",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,w_1200,h_1200,ar_1:1/v1723893714/IMG-20240716-WA0029_-_GURLEEN_KAUR_r6vf5j.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1760029434/IMG_20251009_214931_-_Gurleen_Kaur_gi91vo.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/gurleen-kaur-60b966278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
@@ -419,7 +419,7 @@ export const Teamdata = {
     {
       name : "Rishita Singh",
       position : "AI/ML Lead",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1760029407/IMG-20240828-WA0042_-_rishita_singh_xaun9l.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/rishita-singh-6b0187237/",
         img: Linkedin,
@@ -447,19 +447,6 @@ export const Teamdata = {
    core : [
     {
       name : "Aanya Agarwal",
-      position : "Core",
-      img: "",
-      linkdin : {
-        link:"",
-        img: Linkedin,
-      },
-      insta : {
-        link:"",
-        img: Github,
-      }
-    },
-    {
-      name : "Ansh Bansal",
       position : "Core",
       img: "",
       linkdin : {
