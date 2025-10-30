@@ -10,7 +10,7 @@ const ProjectCard = ({project}) => {
                     <h3>Tech Used : {project.tech}</h3>
                     <p>{project.description}</p>
                     <div>
-                    <a href={project.link}>Github Repository</a>
+                    <a href={project.link}>Visit Us</a>
                     <ArrowOutwardIcon style={{color:"black",marginBottom:"-7px"}} />
                     </div>
                 </div>

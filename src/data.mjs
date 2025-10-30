@@ -35,6 +35,8 @@ import pr3 from './assets/Images/pr3.svg';
 import pr4 from './assets/Images/pr4.svg';
 import pr5 from './assets/Images/pr5.svg';
 import pr6 from './assets/Images/pr6.svg';
+import pr7 from './assets/Images/pr7.png';
+
 
 export const HeroData = {
   headline: 'Innovate, Elevate, Collaborate',
@@ -117,21 +119,28 @@ export const ProjectData = {
   subtitle2: 'Projects',
   project: [
     {
+       name: "Resource Hub",
+      tech:  "React js, Tailwind CSS, Firebase",
+      description: "Resource Hub is an all-in-one academic companion platform designed to make student life easier and more productive. It provides access to a wide range of academic resources, including notes, past papers, and study materials, while also offering curated content to explore and learn new tech domains. Beyond academics, Resource Hub includes practical tools like a timetable and a CGPA calculator, helping students stay organized and track their academic progress effortlessly—all in one place.",
+      link: "https://resourcehub.acmthapar.in/",
+      img : pr7
+    },
+    {
       name: "Thapar Time Table",
-      tech:  "React js ,Python",
+      tech:  "React js, Python",
       description: "This project provides an intuitive and aesthetic web interface for Thapar University students to view, search, and personalize their semester timetables. The website parses an official Excel file released by the university, generating over 60,000 lines of data for comprehensive scheduling information.",
-      link: "https://github.com/Utkarsh09102004/TimeTable",
+      link: "https://timetable.acmthapar.in/",
       img : pr1
     }, 
     {
       name: "ACM GPT",
-      tech:  "Html,Css,Javascript",
+      tech:  "Html, Css, Javascript",
       description: "An AI app using Javascript and openAI",
       link: "https://github.com/ACM-Thapar/acmGPT",
       img : pr3
     },
     {
-      name: "Acm Blockchain",
+      name: "ACM Blockchain",
       tech:  "Golang",
       description: "The projects includes ACM's Thapar very own blockchain built from scratch using built from sratch using golang. The Chain follows Proof of Work consensus mechanism and works with its CLI This is a open source project and contributions are welcome from anyone who wants to contribute .",
       link: "https://github.com/ACM-Thapar/ACM-Blockchain",
@@ -139,7 +148,7 @@ export const ProjectData = {
     },
     {
       name: "Thapar Cos Automation",
-      tech:  "Node.js,React.js,MongoDb,Docker,CI CD",
+      tech:  "Node.js, React.js, MongoDb, Docker, CI CD",
       description: "Repository for Thapar COS Automation. Backend Build using Node.js . Web Frontend using react js . Database used MongoDB . Containerisation done using docker , docker-compose used in dev mode . CI CD pipeline enabled using Travis CI .",
       link: "https://github.com/ACM-Thapar/Thapar-COS-Automation",
       img : pr6
