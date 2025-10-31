@@ -133,10 +133,10 @@ export const ProjectData = {
       img : pr1
     }, 
     {
-      name: "ACM GPT",
-      tech:  "Html, Css, Javascript",
-      description: "An AI app using Javascript and openAI",
-      link: "https://github.com/ACM-Thapar/acmGPT",
+      name: "ACM Team Maker",
+      tech:  "CrewAI, Python",
+      description: "It is an AI-driven assistant that forms well balanced project teams by matching members on skills, interests and learning goals. Using natural language inputs, it helps in reducing coordination overhead and helping teams start productive projects faster.",
+      link: "https://github.com/Armaan457/ACM-Team-Maker",
       img : pr3
     },
     {
@@ -148,7 +148,7 @@ export const ProjectData = {
     },
     {
       name: "Thapar Cos Automation",
-      tech:  "Node.js, React.js, MongoDb, Docker, CI CD",
+      tech:  "Node.js, React.js, MongoDB, Docker, CI/CD",
       description: "Repository for Thapar COS Automation. Backend Build using Node.js . Web Frontend using react js . Database used MongoDB . Containerisation done using docker , docker-compose used in dev mode . CI CD pipeline enabled using Travis CI .",
       link: "https://github.com/ACM-Thapar/Thapar-COS-Automation",
       img : pr6
@@ -156,14 +156,14 @@ export const ProjectData = {
     {
       name: "Expense Tracker ",
       tech:  "Dart",
-      description:"This project is a starting point for a Flutter application.For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.",
+      description:"This project is a starting point for a Flutter application. For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.",
       link: "https://github.com/ACM-Thapar/Expense_Tracker_Workshop_App",
       img : pr2
     },
     {
       name: "Bitcoin Chatbot",
       tech:  "Langchain, Chroma Database",
-      description: "Its an LLM customized on that bitcoin pdf.Its like chatgpt specially trained on a topic",
+      description: "It's an LLM customized on that bitcoin pdf. It's like chatgpt specially trained on a topic",
       link: "https://github.com/armeenkaur/BitcoinChatbot",
       img : pr4
     }, 
