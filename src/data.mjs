@@ -775,9 +775,110 @@ export const homebrand = {
 }
 
 export const alumnid = {
-  heading1 : "2022-23",
-  heading2 : "2021-22",
-  heading3 : "2020-21",
+  heading2 : "2023-24",
+  heading3 : "2022-23",
+  heading4 : "2021-22",
+  heading5 : "2020-21",
+  data24 :[
+    {
+      name:"Mayank Gupta",   
+      // position:"Ex - Gen. Sec.",
+      job:"Placed at Nvidia, Offers from Optum, Expedia, DEShaw",
+      linkedin : "https://www.linkedin.com/in/mayankzach/",
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762096415/mayank_gupta_cc8j4x.jpg",
+    },
+    {
+      name:"Yashvi Garg",
+      // position:"Ex - Joint Sec.",
+      job:"Placed at Airtel",
+      linkedin : "https://www.linkedin.com/in/yashvi-garg/",
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762098711/yashvi_garg_jnx9do.jpg",
+    },
+    {
+      name:"Vasu",
+      // position:"Ex - Joint Sec.",
+      job:"Placed at Deloitte",
+      linkedin : "https://www.linkedin.com/in/vasutohani/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762098763/vasu_pnhn1w.jpg",
+    },
+    {
+      name:"Komal Dua",
+      // position:"Ex - Alumni Cell Sec.",
+      job:"Placed at Barclays",
+      linkedin : "https://www.linkedin.com/in/komaldua8/",     
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762098855/komal_dua_ibib20.jpg",
+    },
+    {
+      name:"Mohak Sharma",
+      // position:"Ex - Joint Sec.",
+      job:"Placed at Deloitte",
+      linkedin : "https://www.linkedin.com/in/mohak-sharma-40a121170/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762099265/mohak_sharma_fvsals.png",
+    },
+    {
+      name:"Ishank Gupta",
+      // position:"Ex - Joint Sec.",
+      job:"Placed at Blackrock",
+      linkedin : "https://www.linkedin.com/in/igupta201202/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762099321/ishank_gupta_ymcyis.jpg",
+    },
+    {
+      name:"SK Sayan",
+      // position:"Ex - UI/UX Lead",
+      job:"Placed at ZS",
+      linkedin : "https://www.linkedin.com/in/sksayan/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762099466/sksayan_fmma7o.png",
+    },
+    {
+      name:"Umar Shaikh",
+      // position:"Ex - UI/UX Lead",
+      job:"Placed at Rusk Media",
+      linkedin : "https://www.linkedin.com/in/umar-shaikh-96b7b31a5/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762099781/umar_shaikh_aoexrn.png",
+    },
+    {
+      name:"Ayush Nangia",
+      // position:"Ex - ML Lead",
+      job:"Placed at Oracle",                                  //To be confirmed
+      linkedin : "https://www.linkedin.com/in/ayush-nangia/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762099901/ayush_nangia_qwbzqo.jpg",
+    },
+    {
+      name:"Ishika Dhiman",
+      // position:"Ex - Design Lead",
+      job:"Placed at Bain and Co.",                                 
+      linkedin : "https://www.linkedin.com/in/ishika-dhiman-58a02825a/", 
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762100306/ishika_dhiman_czyv8m.png",
+    },
+    {
+      name:"Shourya De",                       
+      // position:"Ex - (not mentioned)",
+      job:"Placed at Apple, Offers from JPMC",                                 
+      linkedin : "https://www.linkedin.com/in/shouryade/", 
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762100061/shourya_de_wfqge5.jpg",
+    },
+    {
+      name:"Rochak Ranjan",                
+      // position:"Ex - (not mentioned)",
+      job:"Placed at Amazon, Offers from Barclays",                                 
+      linkedin : "https://www.linkedin.com/in/rochak-ranjan-b14742172/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762100130/rochak_ranjan_p5n8w3.png",
+    },
+    {
+      name:"Ayush Kumar Singh",               
+      // position:"Ex - Development Lead",
+      job:"Placed at NuvertOS",                                 
+      linkedin : "https://www.linkedin.com/in/ayush-kumar-singh-9ab626216/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762100468/ayush_kumar_singh_pj0eik.png",
+    },
+    {
+      name:"Prisha Chadha",               
+      // position:"Ex - Social Media Lead",
+      job:"Placed at Erricson, Internship at amazon",                                 
+      linkedin : "https://www.linkedin.com/in/prisha-chadha/",  
+      img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762100569/prisha_chadha_pvbn3h.png",
+    },
+  ],
   data23 : [
     {
       name:"Harshit Vishwakarma ",
