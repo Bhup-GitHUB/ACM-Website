@@ -888,13 +888,13 @@ export const gallery = {
     {
       img1: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724087537/g2_vbeqnp.jpg",
       date1: "Orientation '23",
-      img2: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724087536/g4_qj5lq2.jpg",
-      date2: "Induction",
-      img3: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724087996/1691988232131_zhcsq1.jpg",
-      date3: "Python Workshop, Frosh Week",
+      img2: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762172926/Screenshot_2025-11-03_175723_jm5swk.png",
+      date2: "Hackspire",
+      img3: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762174021/Screenshot_2025-11-03_181614_ub18qz.png",
+      date3: "Induction",
     },
     {
-      img1: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724087537/g3_jpwubw.jpg",
+      img1: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762174474/Screenshot_2025-11-03_182339_km042x.png",
       date1: "Sakujo",
       img2: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724090239/IMG_8725_stqlnv.jpg",
       date2: "Eclipse 4.0",
@@ -920,6 +920,13 @@ export const events = {
     },
     {
       heading: "Sub-Events",
+      subtitle: "ENIGMA",
+      description: "Competitive Coding Contest",
+      data: "Enigma is an exciting coding challenge designed to test logical thinking, problem-solving, and algorithmic skills. Participants decode puzzles and programming problems to unlock clues and showcase their technical creativity.",
+      img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762171043/Screenshot_2025-11-03_172553-2_qytkhn.png",
+    },
+    {
+      
       subtitle: "SAKUJO",
       description: "Treasure Hunt",
       data:"Sakujo, an exciting treasure hunt, wherein participants had to team up and decipher hints, exploring the alleys of Thapar University, with every hint pointing to a new location.  Themed around 'Death Note', SAKUJO had a massive footfall, making it a huge success.",
@@ -931,15 +938,9 @@ export const events = {
       data:"Cryptic Hunt, a 24 hour Scavenger Hunt requiring participants to solve tricky puzzles on the internet, using tools like cyphers and image steganography, with each level rewarding points. This event progresses non-linearly with the team at the top of the final leader board winning.",
       img: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724135135/cryptic_h8ajzm.jpg",
     },
-    // {
-    //   heading: "Events",
-    //   subtitle: "ECLIPSE 3.0",
-    //   description: "Flagship Event",
-    //   data:"Eclipse 3.0, transcended boundaries with a tech extravaganza featuring a high-octane hackathon, intense Kaggle Wars, mind-bending Enigma challenges, and the vibrant Flamingo showcase.",
-    //   img: event1,
-    // },
+  
     {
-      // heading: "Sub-Events",
+    
       subtitle: "HACKLIPSE",
       description: "Most Popular Hackathon",
       data:"Hacklipse, our standout hackathon, is an immersive 24-hour coding marathon where participants unleash their coding prowess and creativity, it is a dynamic blend of innovation, problem-solving, and memorable moments.",
@@ -951,11 +952,24 @@ export const events = {
       data:"Flamingo has been a canvas for imaginative expression, where designers used their artistic flair to craft visually stunning and impactful creations.",
       img: event2,
     },
+      {
+      // heading: "Events",
+      subtitle: "IDEATHON",
+      description: "Innovation Challenge",
+      data: "Ideathon is a creativity-driven competition where innovators brainstorm and pitch impactful ideas to solve real-world challenges",
+      img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762094375/WhatsApp_Image_2025-11-02_at_20.08.54_4c2002be_kdjnz6.jpg",
+    },
     {
       subtitle: "CODESPRINT",
       description: "Competitive Coding",
       data:"An intra society event, providing a dynamic platform where members engage in intense coding sessions, showcasing their problem-solving abilities and fostering a spirit of friendly competition.",
       img: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724326264/codesprint_syc1zm.jpg",
+    },
+    {
+      subtitle: "ORIENTATION",
+      description: "Introduction to ACM",
+      data: "Orientation helps new students understand ACM’s culture, meet mentors, and explore opportunities in tech and development,introducing them to the ACM's goals, projects, and opportunities while encouraging collaboration and enthusiasm for the journey ahead.",
+      img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762092699/WhatsApp_Image_2025-11-02_at_19.41.10_199a00ac_lklxt0.jpg",
     },
   ],
 }

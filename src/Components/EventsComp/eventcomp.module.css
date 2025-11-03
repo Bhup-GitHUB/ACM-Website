@@ -81,7 +81,8 @@
 .main .box1:nth-child(2),
 .main .box1:nth-child(3),
 .main .box1:nth-child(4),
-.main .box1:nth-child(5){
+.main .box1:nth-child(5),
+.main .box1:nth-child(6){
   width: 90%;
   align-self: flex-end;
 }
@@ -165,3 +166,8 @@
   margin-bottom: clamp(1.5rem, 4vw, 2rem);
 }
 }
+.main .box1 {
+  margin-bottom: clamp(3rem, 5vw, 4rem);
+}
+
+
