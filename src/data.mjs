@@ -350,7 +350,7 @@ export const Teamdata = {
     {
       name : "Bhupesh Kumar",
       position : "Development Lead",
-      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759692894/IMG_3310_-_N00B_GaMeR_fm7l1m.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/IMG_3310_-_N00B_GaMeR_fm7l1m.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/bhupesh-k-185327366/",
         img: Linkedin,
@@ -389,7 +389,7 @@ export const Teamdata = {
     {
       name : "Gurleen Kaur",
       position : "Head of Collaboration & Outreach",
-      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1760029434/IMG_20251009_214931_-_Gurleen_Kaur_gi91vo.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/IMG_20251009_214931_-_Gurleen_Kaur_gi91vo.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/gurleen-kaur-60b966278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
@@ -415,7 +415,7 @@ export const Teamdata = {
     {
       name : "Aryan Gupta",
       position : "Director of Communications",
-      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759957229/3ED81CF4-D8F8-4EF5-A9F1-E37507A9CBCB_-_ARYAN_GUPTA_izykj8.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/3ED81CF4-D8F8-4EF5-A9F1-E37507A9CBCB_-_ARYAN_GUPTA_izykj8.jpg",
       linkdin : {
         link:"http://www.linkedin.com/in/aryan-gupta-17ba3a243",
         img: Linkedin,
@@ -457,182 +457,182 @@ export const Teamdata = {
     {
       name : "Aanya Agarwal",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762292149/me_-_marvin_u0uom7.jpg",
       linkdin : {
-        link:"",
+        link:"www.linkedin.com/in/ aanya-agarwal-14052006agg",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/aanyaagarwal1",
         img: Github,
       }
     },
     {
       name : "Ayushi Aggarwal",
       position : "Core",
-      img: "",
+      img:"https://res.cloudinary.com/dp8uze2fi/image/upload/v1762400180/IMG_8962_-_Ayushi_Aggarwal_bxjpef.png",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/ayushi-aggarwal-89bb77371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/Ayushi1462",
         img: Github,
       }
     },
     {
       name : "Bhoomi Mahna",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762291373/20251013_190954_-_Bhoomi_Mahna_q1urcp.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/bhoomi-mahna-721061329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/BhoomiMahna",
         img: Github,
       }
     },
     {
       name : "Chitvi Joshi",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762293526/IMG_20250501_182521_-_Chitvi_Joshi_cr1bc1.jpg",
       linkdin : {
-        link:"",
+        link:"https://github.com/ChitviJoshi",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://www.linkedin.com/in/chitvi-joshi-2985ab324",
         img: Github,
       }
     },
     {
       name : "Diya Garg",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762291888/IMG-20251030-WA0026_-_Diya_Garg_avkgyb.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/diyagarg16/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/diya0116",
         img: Github,
       }
     },
     {
       name : "Garvita",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762400868/19230b81-1686-444e-a718-b8bb084fbcfb_-_Ayushi_Aggarwal_nthhlf.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/garvita-gupta-0b8962311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/Garvitaa1908",
         img: Github,
       }
     },
     {
       name : "Gauransh Arora",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762322278/WhatsApp_Image_2025-11-05_at_00.06.36_f0526caf_-_Gauransh_lh5d28.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/gauransh-arora/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/Gauransh-Arora",
         img: Github,
       }
     },
     {
       name : "Gourav",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762293320/IMG_3286_dmbq9r.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/gourav-madaan-6b1a97246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/Gourav1805",
         img: Github,
       }
     },
     {
       name : "Kasvi Bansal",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762291769/IMG_20251103_105426_-_Kasvi_Bansal_nahxuq.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/kasvi-bansal-18b563309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/KasviBansal",
         img: Github,
       }
     },
     {
       name : "Kavya Singal",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762293453/IMG_20251103_135254_-_Monika_Singal_b2tk2s.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/kavya-singal-6b956b320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/Kavya305",
         img: Github,
       }
     },
     {
       name : "Lakshay Jain",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762291966/photo_2025-07-21_23-39-43_-_Dreamy_Crafts_nkhypa.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/lakshay-jainn/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/helodreamcumtrue",
         img: Github,
       }
     },
     {
       name : "Lavdeep Singh",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762400971/IMG-20251105-WA0113_-_Lavdeep_Singh_hko8oc.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/lavdeep-singh-109802210/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/LavdeepSingh23",
         img: Github,
       }
     },
     {
       name : "Manvi Gajrani",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762291436/497d881c-d1e1-4cbf-b7b0-f00d547522f9_-_Manvi_Gajrani_wx7yqx.jpg",
       linkdin : {
-        link:"",
+        link:"https://linkedin.com/in/manvi-gajrani-755786328",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/manviii345",
         img: Github,
       }
     },
     {
       name : "Mohan Arora",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762399995/IMG_1133_-_Mohan_Arora_zkivud.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/mohan-arora-980b75324/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/mohanarora3",
         img: Github,
       }
     },
@@ -652,52 +652,52 @@ export const Teamdata = {
     {
       name : "Naitik Garg",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762322525/WhatsApp_Image_2025-08-09_at_21.28.01_f4f53eee_-_Naitik_Garg_qyxbqe.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/naitik-garg-020318320/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/NkGarg1305",
         img: Github,
       }
     },
     {
       name : "Raghav Garg",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762293033/IMG_8759_-_Raghav_Garg_sri9h6.jpg",
       linkdin : {
-        link:"",
+        link:"www.linkedin.com/in/raghav-garg-96a369317",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/raghav-garg8",
         img: Github,
       }
     },
     {
       name : "Rudraksh Chugh",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762292510/Rudraksh_withbg_-_Rudraksh_Chugh_swdnoa.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/rudraksh-chugh/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/RudrakshChugh",
         img: Github,
       }
     },
     {
       name : "Sanjam Wadhwa",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762293607/c181f2f0-64bf-46b4-8a37-d1a7b3705ddb_-_Saj_Wa_q9fpgw.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/sanjam-wadhwa-853985334/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/idklol22",
         img: Github,
       }
     },
@@ -717,39 +717,39 @@ export const Teamdata = {
     {
       name : "Vansh Wadhwa",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/IMG_20251030_211808_-_Vansh_Wadhwa_qyvpfp.png",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/vansh-wadhwa/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/vanshwadhwa24",
         img: Github,
       }
     },
     {
       name : "Vignesh Jain",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762292684/IMG_3970_-_Vignesh_Jain_javoif.jpg",
       linkdin : {
-        link:"",
+        link:"http://linkedin.com/in/vignesh-jain-887ab4321",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/vigneshjain",
         img: Github,
       }
     },
     {
       name : "Yashmit Vaish",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762291705/WhatsApp_Image_2025-11-03_at_10.52.43_b22b4235_-_Yashmit_Vaish_yfkjfz.jpg",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/yashmit-vaish-9184a1315/",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"github.com/YashmitVaish",
         img: Github,
       }
     },
