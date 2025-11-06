@@ -896,8 +896,8 @@ export const gallery = {
     {
       img1: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762174474/Screenshot_2025-11-03_182339_km042x.png",
       date1: "Sakujo",
-      img2: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724090239/IMG_8725_stqlnv.jpg",
-      date2: "Eclipse 4.0",
+      img2: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762444719/eclipse_cxlt0r.jpg",
+      date2: "Eclipse 5.0",
       img3: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724087486/g1_aib9mf.jpg",
       date3: "Orientation '23",
     },
@@ -913,30 +913,30 @@ export const events = {
   details:[
     {
       heading: "Events",
-      subtitle: "ECLIPSE 4.0",
+      subtitle: "ECLIPSE 5.0",
       description: "Flagship Event",
       data:"A premier tech competition that featured an exhilarating overnight hackathon Hacklipse, innovative designathon 'Flamingo' showcasing creative excellence, rigorous Enigma competitive programming challenges, the mind-bending Sakujo quests and the intense virtual cipher-breaking of Cryptic Hunt.",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724323527/img_pka8hq.jpg",
+      img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762444719/eclipse_cxlt0r.jpg",
     },
     {
       heading: "Sub-Events",
       subtitle: "ENIGMA",
-      description: "Competitive Coding Contest",
+      // description: "Competitive Coding Contest",
       data: "Enigma is an exciting coding challenge designed to test logical thinking, problem-solving, and algorithmic skills. Participants decode puzzles and programming problems to unlock clues and showcase their technical creativity.",
       img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762171043/Screenshot_2025-11-03_172553-2_qytkhn.png",
     },
     {
       
-      subtitle: "SAKUJO",
-      description: "Treasure Hunt",
+      subtitle: "TREASURE HUNT",
+      // description: "Treasure Hunt",
       data:"Sakujo, an exciting treasure hunt, wherein participants had to team up and decipher hints, exploring the alleys of Thapar University, with every hint pointing to a new location.  Themed around 'Death Note', SAKUJO had a massive footfall, making it a huge success.",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724135144/20240223063610_IMG_5521_hoetev.jpg",
+      img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762444308/treasure-hunt_co5irs.jpg",
     },
     {
       subtitle: "CRYPTIC HUNT",
       // description: "Designathon",
       data:"Cryptic Hunt, a 24 hour Scavenger Hunt requiring participants to solve tricky puzzles on the internet, using tools like cyphers and image steganography, with each level rewarding points. This event progresses non-linearly with the team at the top of the final leader board winning.",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724135135/cryptic_h8ajzm.jpg",
+      img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762444127/cryptic-hunt_z8nrja.jpg",
     },
   
     {
@@ -944,7 +944,7 @@ export const events = {
       subtitle: "HACKLIPSE",
       description: "Most Popular Hackathon",
       data:"Hacklipse, our standout hackathon, is an immersive 24-hour coding marathon where participants unleash their coding prowess and creativity, it is a dynamic blend of innovation, problem-solving, and memorable moments.",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724135136/hacklipse_etixxj.jpg",
+      img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762443990/hackspire_e39hue.jpg",
     },
     {
       subtitle: "FLAMINGO",
