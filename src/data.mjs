@@ -90,6 +90,10 @@ export const NavData = {
       href: '/Gallery',
     },
     {
+      navitem: "Blogs",
+      href: '/blogs',
+    },
+    {
       navitem: "Team",
       href: '/Team',
     },
@@ -1084,6 +1088,24 @@ export const events = {
       img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762092699/WhatsApp_Image_2025-11-02_at_19.41.10_199a00ac_lklxt0.jpg",
     },
   ],
+}
+
+export const BlogData = {
+  blogs: [
+    {
+      id: "app-development-guide-2025",
+      slug: "app-development-guide-2025",
+      title: "The Complete Guide to Modern App Development: Flutter, React Native, and Kotlin",
+      excerpt: "Explore the world of mobile app development with Flutter, React Native, and native Android development using Kotlin. Learn which framework suits your project and master cross-platform development.",
+      date: "2025-11-10",
+      readTime: "12 min read",
+      tags: ["App Development", "Flutter", "React Native", "Kotlin"],
+      featured: false,
+      author: "Bhupesh Kumar",
+      authorLink: "https://bhupeshkumar.tech",
+      markdownFile: "app-development-guide-2025.md"
+    }
+  ]
 }
 
 export const Bootcampdata = {

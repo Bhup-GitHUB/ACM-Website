@@ -5,6 +5,11 @@
 	z-index: 3;
 	position: fixed;
 	background-color: white;
+	transition: background-color 0.3s ease;
+}
+
+body[data-blog-theme="dark"] .section {
+	background-color: #0f1f2e;
 }
 
 .navbox{
@@ -14,7 +19,13 @@
 	justify-content: space-between;
 	z-index: 3;
 	background-color: white;
-	box-shadow: 2.660855770111084px 3.991283655166626px 9.978209495544434px rgba(0, 0, 0, 0.25)
+	box-shadow: 2.660855770111084px 3.991283655166626px 9.978209495544434px rgba(0, 0, 0, 0.25);
+	transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body[data-blog-theme="dark"] .navbox {
+	background-color: #0f1f2e;
+	box-shadow: 2.660855770111084px 3.991283655166626px 9.978209495544434px rgba(0, 0, 0, 0.5);
 }
 
 .navitem{
@@ -24,11 +35,21 @@
 	display: flex;
 	gap: 2vw;
 	align-items: center;
+	transition: color 0.3s ease;
+}
+
+body[data-blog-theme="dark"] .navitem {
+	color: #E8F4F8;
 }
 
 .navitem a{
 	text-decoration: none;
 	color:#020E13;
+	transition: color 0.3s ease;
+}
+
+body[data-blog-theme="dark"] .navitem a {
+	color: #E8F4F8;
 }
 
 .logo{
@@ -74,6 +95,11 @@
 	.navbox {
 		background-color: white;
 		transform: translateX(-100%); /* Add this line */
+		transition: background-color 0.3s ease;
+	}
+	
+	body[data-blog-theme="dark"] .navbox {
+		background-color: #0f1f2e;
 	}
 
 	.navitem, .logos{

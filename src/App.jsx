@@ -12,6 +12,8 @@ import Footer from "./Components/Footer/Footer";
 import TeamPage from "./Pages/TeamPage/TeamPage";
 import ScrollToTop from "./Hooks/Scroll";
 import BootcampPage from "./Pages/Bootcamps/BootcampPage";
+import Blogs from "./Pages/Blogs/Blogs";
+import BlogDetail from "./Pages/Blogs/BlogDetail";
 
 function App() {
   return (
@@ -29,6 +31,8 @@ function App() {
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/team" element={<TeamPage />} />
+            <Route path="/blogs" element={<Blogs />} />
+            <Route path="/blogs/:slug" element={<BlogDetail />} />
           </Routes>
         </ScrollToTop>
         <Footer />
