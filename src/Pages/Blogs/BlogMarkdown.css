@@ -1,0 +1,61 @@
+/* Dark mode styles for markdown content - Global stylesheet to override inline styles */
+/* Using high specificity selectors to override inline styles from markdown renderer */
+
+div[data-blog-theme="dark"] h1,
+div[data-blog-theme="dark"] h2,
+div[data-blog-theme="dark"] h3,
+div[data-blog-theme="dark"] h4,
+div[data-blog-theme="dark"] h5,
+div[data-blog-theme="dark"] h6 {
+  color: #4DB8E8 !important;
+}
+
+div[data-blog-theme="dark"] p {
+  color: #E8F4F8 !important;
+}
+
+div[data-blog-theme="dark"] ul,
+div[data-blog-theme="dark"] ol {
+  color: #E8F4F8 !important;
+}
+
+div[data-blog-theme="dark"] li {
+  color: #E8F4F8 !important;
+}
+
+div[data-blog-theme="dark"] code {
+  background-color: #1a2332 !important;
+  color: #6BC5E8 !important;
+}
+
+div[data-blog-theme="dark"] pre {
+  background-color: #1a2332 !important;
+  border-color: #4DB8E8 !important;
+}
+
+div[data-blog-theme="dark"] pre code {
+  background-color: transparent !important;
+  color: #6BC5E8 !important;
+}
+
+div[data-blog-theme="dark"] blockquote {
+  color: #B0C4D0 !important;
+  border-left-color: #4DB8E8 !important;
+}
+
+div[data-blog-theme="dark"] strong {
+  color: #6BC5E8 !important;
+}
+
+div[data-blog-theme="dark"] em {
+  color: #E8F4F8 !important;
+}
+
+div[data-blog-theme="dark"] hr {
+  border-top-color: #4DB8E8 !important;
+}
+
+div[data-blog-theme="dark"] a {
+  color: #4DB8E8 !important;
+}
+
