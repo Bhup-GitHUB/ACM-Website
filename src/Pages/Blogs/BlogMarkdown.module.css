@@ -1,14 +1,23 @@
-/* Dark mode styles for markdown content */
+/* Dark mode styles for markdown content - using !important to override inline styles */
 
 [data-blog-theme="dark"] h1,
 [data-blog-theme="dark"] h2,
-[data-blog-theme="dark"] h3 {
+[data-blog-theme="dark"] h3,
+[data-blog-theme="dark"] h4,
+[data-blog-theme="dark"] h5,
+[data-blog-theme="dark"] h6 {
   color: #4DB8E8 !important;
 }
 
-[data-blog-theme="dark"] p,
+[data-blog-theme="dark"] p {
+  color: #E8F4F8 !important;
+}
+
 [data-blog-theme="dark"] ul,
-[data-blog-theme="dark"] ol,
+[data-blog-theme="dark"] ol {
+  color: #E8F4F8 !important;
+}
+
 [data-blog-theme="dark"] li {
   color: #E8F4F8 !important;
 }
@@ -21,6 +30,11 @@
 [data-blog-theme="dark"] pre {
   background-color: #1a2332 !important;
   border-color: #4DB8E8 !important;
+}
+
+[data-blog-theme="dark"] pre code {
+  background-color: transparent !important;
+  color: #6BC5E8 !important;
 }
 
 [data-blog-theme="dark"] blockquote {
