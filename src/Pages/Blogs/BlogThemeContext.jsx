@@ -12,16 +12,21 @@ export const useBlogTheme = () => {
 
 export const BlogThemeProvider = ({ children }) => {
   const [theme, setTheme] = useState(() => {
-    // Check localStorage for blog theme preference
-    const savedTheme = localStorage.getItem('acm-blog-theme');
-    if (savedTheme) return savedTheme;
+    // Check localStorage for blog theme preference (only on client side)
+    if (typeof window !== 'undefined') {
+      const savedTheme = localStorage.getItem('acm-blog-theme');
+      if (savedTheme) return savedTheme;
+    }
     
     // Default to light theme
     return 'light';
   });
 
   useEffect(() => {
-    localStorage.setItem('acm-blog-theme', theme);
+    // Only access localStorage on client side
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('acm-blog-theme', theme);
+    }
   }, [theme]);
 
   const toggleTheme = () => {
