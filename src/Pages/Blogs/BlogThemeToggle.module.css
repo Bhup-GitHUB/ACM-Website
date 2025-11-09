@@ -1,0 +1,47 @@
+.themeToggle {
+  background: transparent;
+  border: 2px solid var(--blue);
+  border-radius: 24px;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  color: var(--blue);
+  transition: all 0.3s ease;
+  font-family: var(--textFont);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.themeToggle:hover {
+  background: var(--blue);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(21, 166, 221, 0.2);
+}
+
+.themeToggle svg {
+  transition: transform 0.3s ease;
+}
+
+.themeToggle:hover svg {
+  transform: rotate(15deg);
+}
+
+.toggleText {
+  font-size: clamp(0.8rem, 1.2vw, 0.9rem);
+}
+
+@media screen and (max-width: 768px) {
+  .themeToggle {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+  }
+  
+  .toggleText {
+    font-size: 0.75rem;
+  }
+}
+
