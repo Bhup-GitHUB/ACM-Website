@@ -4,19 +4,8 @@ import Github from './assets/Images/GitHub (1).svg';
 import Linkedinb from './assets/Images/LinkedIn-blue.svg';
 import Instagramb from './assets/Images/Instagram-blue.svg';
 import Githubb from './assets/Images/GitHub-blue.svg';
-import Device from './assets/Images/device.png';
 import Bootcampimg from './assets/Images/bootcamps.png';
-import Phone from './assets/Images/phone.png';
-import amico1 from './assets/Images/amico.png';
-import gallery2 from './assets/Images/gallery_big.png';
-import gallery0 from './assets/Images/gallery.png';
-import gallery1 from './assets/Images/gallery1.png';
-import project from "./assets/Images/project.svg";
-import face from './assets/Images/sample.png';
 import logo from './assets/Images/logo.png';
-import hackathon from "./assets/Images/hack.png";
-import profile from "./assets/Images/profile.png"
-import event1 from './assets/Images/event1.png';
 import event2 from './assets/Images/event2.png';
 import html from './assets/Images/html.png';
 import css from './assets/Images/css.png';
@@ -36,13 +25,16 @@ import pr4 from './assets/Images/pr4.svg';
 import pr5 from './assets/Images/pr5.svg';
 import pr6 from './assets/Images/pr6.svg';
 import pr7 from './assets/Images/pr7.png';
+import orientation from './assets/Images/orientation.png';
+import hack from './assets/Images/hack.png';
+import induction from './assets/Images/induction.png';
 
 
 export const HeroData = {
   headline: 'Innovate, Elevate, Collaborate',
   keywords: ['Innovate.', 'Elevate.', 'Collaborate.'],
-  subtitle: 'ACM Thapar 2024',
-  copyright: 'THAPAR ACM CHAPTER © 2024',
+  subtitle: 'ACM Thapar 2025',
+  copyright: 'THAPAR ACM CHAPTER © 2025',
   info: `A vibrant community of tech enthusiasts, dedicated to exploring, tackling and connecting with all things tech. `,
   logos: [
     {
@@ -643,13 +635,13 @@ export const Teamdata = {
     {
       name : "Navjot Singh",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762720592/1000044337_2_1__Original_-_Navjot_Singh_hksv6f.png",
       linkdin : {
-        link:"",
+        link:"https://www.linkedin.com/in/singhnavjot20",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/NavjotSingh20",
         img: Github,
       }
     },
@@ -708,13 +700,13 @@ export const Teamdata = {
     {
       name : "Vandit Gupta",
       position : "Core",
-      img: "",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762720760/with_bg_-_Vandit_Gupta_yxldyf.jpg",
       linkdin : {
-        link:"",
+        link:"www.linkedin.com/in/vandit-gupta-7537502a5",
         img: Linkedin,
       },
       insta : {
-        link:"",
+        link:"https://github.com/Valar06",
         img: Github,
       }
     },
@@ -761,7 +753,9 @@ export const Teamdata = {
 }
 
 export const homebrand = {
-  images: [hackathon,hackathon,hackathon,hackathon],
+  images: [ 
+    orientation, hack, induction
+  ],
   details : [
     {
       heading : "Innovate",
