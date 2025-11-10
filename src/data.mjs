@@ -62,8 +62,8 @@ export const NavData = {
   },
   navbar: [
     {
-      navitem: "Alumni",
-      href: '/Alumni',
+      navitem: "Blogs",
+      href: '/Blogs',
     },
     {
       navitem: "Events",
@@ -82,8 +82,8 @@ export const NavData = {
       href: '/Gallery',
     },
     {
-      navitem: "Blogs",
-      href: '/blogs',
+      navitem: "Alumni",
+      href: '/Alumni',
     },
     {
       navitem: "Team",
@@ -795,7 +795,7 @@ export const alumnid = {
       img:"https://res.cloudinary.com/dkpjtsstt/image/upload/v1762098711/yashvi_garg_jnx9do.jpg",
     },
     {
-      name:"Vasu",
+      name:"Vasu Tohani",
       // position:"Ex - Joint Sec.",
       job:"Placed at Deloitte",
       linkedin : "https://www.linkedin.com/in/vasutohani/",  

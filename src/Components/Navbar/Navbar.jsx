@@ -30,13 +30,6 @@ const Navbar = () => {
                 </div>
             <div className={styles.navbox}>
                 <div className={`${styles.navitem} ${styles.home}`}>
-                    {navbar.slice(5,6).map ((item, index) => {
-                            return (
-                                <li className={styles.navitem} key={index}>
-                                    <Link  to={item.href} onClick={closeNav}>{item.navitem}</Link>
-                                </li>
-                            );
-                    })}
                 </div>
                 <div className={styles.navitem}>
                     {navbar.slice(0,3).map ((item, index) => {
@@ -49,7 +42,7 @@ const Navbar = () => {
                 </div>
                
                 <div className={styles.navitem}>
-                    {navbar.slice(3,5).map ((item, index) => {
+                    {navbar.slice(3,6).map ((item, index) => {
                             return (
                                 <li className={styles.navitem} key={index}>
                                 <Link  to={item.href} onClick={closeNav}>{item.navitem}</Link>
