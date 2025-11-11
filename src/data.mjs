@@ -1063,7 +1063,7 @@ export const gallery = {
     },
     {
       img1: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762174474/Screenshot_2025-11-03_182339_km042x.png",
-      date1: "Sakujo",
+      date1: "Orientation '25",
       img2: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762444719/eclipse_cxlt0r.jpg",
       date2: "Eclipse 5.0",
       img3: "https://res.cloudinary.com/dpfqalryd/image/upload/v1724087486/g1_aib9mf.jpg",
@@ -1083,13 +1083,13 @@ export const events = {
       heading: "Events",
       subtitle: "ECLIPSE 5.0",
       description: "Flagship Event",
-      data:"A premier tech competition that featured an exhilarating overnight hackathon Hacklipse, innovative designathon 'Flamingo' showcasing creative excellence, rigorous Enigma competitive programming challenges, the mind-bending Sakujo quests and the intense virtual cipher-breaking of Cryptic Hunt.",
+      data:"A premier tech competition that featured an exhilarating overnight hackathon Hacklipse, innovative designathon 'Flamingo' showcasing creative excellence, rigorous Enigma competitive programming challenges, the mind-bending Treasure Hunt and the intense virtual cipher-breaking of Cryptic Hunt.",
       img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762444719/eclipse_cxlt0r.jpg",
     },
     {
       heading: "Sub-Events",
       subtitle: "ENIGMA",
-      // description: "Competitive Coding Contest",
+      description: "Competitive Coding Contest",
       data: "Enigma is an exciting coding challenge designed to test logical thinking, problem-solving, and algorithmic skills. Participants decode puzzles and programming problems to unlock clues and showcase their technical creativity.",
       img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762171043/Screenshot_2025-11-03_172553-2_qytkhn.png",
     },
@@ -1097,7 +1097,7 @@ export const events = {
       
       subtitle: "TREASURE HUNT",
       // description: "Treasure Hunt",
-      data:"Sakujo, an exciting treasure hunt, wherein participants had to team up and decipher hints, exploring the alleys of Thapar University, with every hint pointing to a new location.  Themed around 'Death Note', SAKUJO had a massive footfall, making it a huge success.",
+      data:"An exciting treasure hunt, wherein participants had to team up and decipher hints, exploring the alleys of Thapar University, with every hint pointing to a new location.  Themed around 'Death Note', SAKUJO had a massive footfall, making it a huge success.",
       img: "https://res.cloudinary.com/dvk962s9o/image/upload/v1762444308/treasure-hunt_co5irs.jpg",
     },
     {
