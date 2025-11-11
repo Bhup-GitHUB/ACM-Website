@@ -1145,6 +1145,19 @@ export const events = {
 export const BlogData = {
   blogs: [
     {
+      id: "understanding-cdns-guide",
+      slug: "understanding-cdns-guide",
+      title: "Understanding CDNs: How They Work and Why They Save You Money",
+      excerpt: "Learn how Content Delivery Networks (CDNs) work, why they make your website faster, and how they can reduce your hosting costs by up to 80%. A practical guide to CDN basics for developers.",
+      date: "2025-01-15",
+      readTime: "8 min read",
+      tags: ["Web Development", "CDN", "Performance", "Infrastructure"],
+      featured: false,
+      author: "Bhupesh Kumar",
+      authorLink: "https://bhupeshkumar.tech",
+      markdownFile: "understanding-cdns-guide.md"
+    },
+    {
       id: "app-development-guide-2025",
       slug: "app-development-guide-2025",
       title: "The Complete Guide to Modern App Development: Flutter, React Native, and Kotlin",
