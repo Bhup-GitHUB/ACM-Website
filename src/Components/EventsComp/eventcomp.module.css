@@ -9,6 +9,7 @@
 
 .heading {
   height: clamp(7rem, 12vw, 7.5rem);
+  margin-bottom: 1.5vw;
 }
 
 .heading h1{
