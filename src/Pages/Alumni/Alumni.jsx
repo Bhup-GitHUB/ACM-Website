@@ -9,6 +9,10 @@ const Alumni = () => {
         heading: alumnid.heading2,
         data: alumnid.data25,
     }
+    const alumni24 = {
+        heading: alumnid.heading3,
+        data: alumnid.data24,
+    }
     const alumni23 = {
         heading: alumnid.heading4,
         data: alumnid.data23,
@@ -28,6 +32,7 @@ const Alumni = () => {
             <h1>Alumni</h1>
         </div>
         <AlumniComp alumnidata={alumni25} />
+        <AlumniComp alumnidata={alumni24} />
         <AlumniComp alumnidata={alumni23} />
         <AlumniComp alumnidata={alumni22} />
         <AlumniComp alumnidata={alumni21} />
