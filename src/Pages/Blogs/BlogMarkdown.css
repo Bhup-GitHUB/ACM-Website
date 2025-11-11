@@ -1,8 +1,17 @@
 /* Dark mode styles for markdown content - Global stylesheet to override inline styles */
 /* Using high specificity selectors to override inline styles from markdown renderer */
 
-div[data-blog-theme="dark"] h1,
-div[data-blog-theme="dark"] h2,
+/* Main heading - bright cyan for high contrast */
+div[data-blog-theme="dark"] h1 {
+  color: #6FDFFF !important;
+}
+
+/* Secondary headings - lighter blue-cyan */
+div[data-blog-theme="dark"] h2 {
+  color: #5DD0F5 !important;
+}
+
+/* Tertiary headings - softer cyan */
 div[data-blog-theme="dark"] h3,
 div[data-blog-theme="dark"] h4,
 div[data-blog-theme="dark"] h5,
@@ -57,5 +66,13 @@ div[data-blog-theme="dark"] hr {
 
 div[data-blog-theme="dark"] a {
   color: #4DB8E8 !important;
+}
+
+/* Dark mode image adjustments - brighten and enhance contrast for better visibility */
+div[data-blog-theme="dark"] img {
+  filter: brightness(1.3) contrast(1.1) saturate(1.2) !important;
+  opacity: 0.95 !important;
+  border: 2px solid rgba(77, 184, 232, 0.3) !important;
+  box-shadow: 0 4px 12px rgba(77, 184, 232, 0.2) !important;
 }
 
