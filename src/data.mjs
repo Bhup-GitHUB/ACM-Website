@@ -1093,6 +1093,19 @@ export const events = {
 export const BlogData = {
   blogs: [
     {
+      id: "payment-interfaces-ux-guide",
+      slug: "payment-interfaces-ux-guide",
+      title: "The Hidden Power of Payment Interfaces: How UX Makes Us Spend More",
+      excerpt: "Modern online payment interfaces aren't just about processing transactions—they are carefully engineered to remove friction, build trust, and even subtly encourage us to spend more. Decode the psychological secrets behind these designs.",
+      date: "2025-01-20",
+      readTime: "7 min read",
+      tags: ["UX Design", "Payment Systems", "Psychology", "User Experience"],
+      featured: false,
+      author: "Divyansh Lalotra",
+      authorLink: "",
+      markdownFile: "payment-interfaces-ux-guide.md"
+    },
+    {
       id: "understanding-cdns-guide",
       slug: "understanding-cdns-guide",
       title: "Understanding CDNs: How They Work and Why They Save You Money",
