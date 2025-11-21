@@ -11,6 +11,7 @@
 .main img{
     height: clamp(12rem,52vw,50rem);
     margin-bottom: 3vw;
+    margin-top: 2vw;
     width: 70%;
     height: auto;
 }
@@ -19,6 +20,7 @@
     width:94%;
     margin-bottom:-4rem;
     color: #1E1E1E;
+    
 }
 .headingdiv  h1{
     font-family: var(--titleFont);

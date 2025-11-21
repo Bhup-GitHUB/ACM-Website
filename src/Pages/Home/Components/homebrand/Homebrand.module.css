@@ -30,10 +30,10 @@
 
 
 .progressbar{
-    height: clamp(20rem ,40vw,33rem);
+    height: clamp(20rem ,42vw,33rem);
     /* width: 100%; */
     margin-left:clamp(1rem,2vw,3rem) ;
-    margin-top: clamp(1rem,2vw,3rem);
+    margin-top: clamp(1rem,2.5vw,3rem);
 }
 
 .innercontent p{
@@ -41,6 +41,7 @@
     font-family: var(--textFont);
     font-size: clamp(0.25rem,3vw,1rem);
     width: 80%;
+    padding-top: 0.5vw;
 }
 .innercontent h1 {
     color: #8FDAF5;

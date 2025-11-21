@@ -94,6 +94,10 @@ body[data-blog-theme="dark"] {
     line-height: 1.3;
 }
 
+#blogDetail[data-blog-theme="dark"] .blogTitle {
+    color: #6FDFFF;
+}
+
 .blogMeta {
     display: flex;
     align-items: center;

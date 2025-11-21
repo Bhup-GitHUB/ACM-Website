@@ -1,5 +1,3 @@
-# The Complete Guide to Modern App Development: Flutter, React Native, and Kotlin
-
 Mobile app development has evolved dramatically over the past few years. With the rise of cross-platform frameworks and modern native development tools, developers now have more options than ever to build high-quality mobile applications. In this comprehensive guide, we'll explore three powerful approaches: **Flutter**, **React Native**, and **Kotlin** for native Android development.
 
 ## Why Mobile App Development Matters
@@ -74,8 +72,8 @@ class MyApp extends StatelessWidget {
 #### React Native Example:
 
 ```javascript
-import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import React from "react";
+import { View, Text, StyleSheet } from "react-native";
 
 const App = () => {
   return (
@@ -88,12 +86,12 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
   },
   text: {
     fontSize: 20,
-    fontWeight: 'bold',
+    fontWeight: "bold",
   },
 });
 
@@ -138,12 +136,12 @@ import android.widget.TextView
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        
+
         val textView = TextView(this).apply {
             text = "Welcome to Kotlin Development!"
             textSize = 20f
         }
-        
+
         setContentView(textView)
     }
 }
@@ -153,11 +151,11 @@ class MainActivity : AppCompatActivity() {
 
 ### Performance Comparison
 
-| Framework | Performance | Native Features | Learning Curve |
-|-----------|------------|-----------------|----------------|
-| **Flutter** | Excellent | Good | Moderate |
-| **React Native** | Good | Good | Easy (if you know React) |
-| **Kotlin** | Excellent | Excellent | Moderate |
+| Framework        | Performance | Native Features | Learning Curve           |
+| ---------------- | ----------- | --------------- | ------------------------ |
+| **Flutter**      | Excellent   | Good            | Moderate                 |
+| **React Native** | Good        | Good            | Easy (if you know React) |
+| **Kotlin**       | Excellent   | Excellent       | Moderate                 |
 
 ### Development Speed
 
@@ -174,18 +172,21 @@ class MainActivity : AppCompatActivity() {
 ## Making the Right Choice
 
 ### Choose Flutter If:
+
 - You want the best performance in cross-platform development
 - UI consistency is crucial
 - You're building a new app from scratch
 - You don't mind learning Dart
 
 ### Choose React Native If:
+
 - Your team already knows JavaScript/React
 - You need to share code with a web application
 - You want access to the largest package ecosystem
 - Rapid development is a priority
 
 ### Choose Kotlin If:
+
 - You're building Android-only applications
 - You need maximum performance and native features
 - You want full control over platform-specific optimizations
@@ -230,18 +231,21 @@ The mobile development landscape continues to evolve:
 ## Getting Started
 
 ### For Flutter:
+
 1. Install Flutter SDK
 2. Set up your IDE (VS Code or Android Studio)
 3. Run `flutter create my_app`
 4. Start building!
 
 ### For React Native:
+
 1. Install Node.js and npm
 2. Install React Native CLI
 3. Run `npx react-native init MyApp`
 4. Start coding!
 
 ### For Kotlin:
+
 1. Install Android Studio
 2. Create a new Android project
 3. Select Kotlin as the language
@@ -249,7 +253,7 @@ The mobile development landscape continues to evolve:
 
 ## Conclusion
 
-Each technology—Flutter, React Native, and Kotlin—has its strengths and use cases. The best choice depends on your project requirements, team expertise, and long-term goals. 
+Each technology—Flutter, React Native, and Kotlin—has its strengths and use cases. The best choice depends on your project requirements, team expertise, and long-term goals.
 
 **Flutter** excels in cross-platform performance and UI consistency. **React Native** is perfect if you're already in the JavaScript ecosystem. **Kotlin** gives you the full power of native Android development.
 
@@ -260,5 +264,4 @@ Happy coding! 🚀
 ---
 
 **Written by [Bhupesh Kumar](https://bhupeshkumar.tech)**  
-*Development Lead at ACM Thapar*
-
+_Development Lead at ACM Thapar_
