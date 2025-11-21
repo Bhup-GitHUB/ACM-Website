@@ -229,7 +229,7 @@ export const Teamdata = {
     {
       name : "Armaan Jagirdar",
       position : "General Secretary",
-      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1759697757/ea95c316-7c38-4773-94f2-85ca2d21789a_lrzute.jpg",
+      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1763241205/51f00f6b-c7c9-42ce-9664-8bc7d414fefa_xyfhcd.jpg",
       linkdin : {
         link:"https://www.linkedin.com/in/armaan-jagirdar-183b47285/",
         img: Linkedin,
@@ -253,6 +253,19 @@ export const Teamdata = {
       }
     },
     {
+      name : "Kashish Gupta",
+      position : "Finance Secretary",
+      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,ar_1:1/v1723893036/IMG_4007_-_KASHISH_GUPTA_oicejb.jpg",
+      linkdin : {
+        link:"https://www.linkedin.com/in/kashish-gupta-34205a288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        img: Linkedin,
+      },
+      insta : {
+        link:"https://github.com/Kashish101204",
+        img: Github,
+      }
+    },
+    {
       name : "Aaditya Jain",
       position : "Joint Secretary",
       img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,ar_1:1/v1723893302/IMG_20240810_195547023_3_-_AADITYA_JAIN_oik0mb.jpg",
@@ -262,19 +275,6 @@ export const Teamdata = {
       },
       insta : {
         link:"https://github.com/Aaditya060",
-        img: Github,
-      }
-    },
-    {
-      name : "Kashish Gupta",
-      position : "Joint Secretary",
-      img: "https://res.cloudinary.com/dpfqalryd/image/upload/c_crop,ar_1:1/v1723893036/IMG_4007_-_KASHISH_GUPTA_oicejb.jpg",
-      linkdin : {
-        link:"https://www.linkedin.com/in/kashish-gupta-34205a288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-        img: Linkedin,
-      },
-      insta : {
-        link:"https://github.com/Kashish101204",
         img: Github,
       }
     },
@@ -646,19 +646,6 @@ export const Teamdata = {
       }
     },
     {
-      name : "Naitik Garg",
-      position : "Core",
-      img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762322525/WhatsApp_Image_2025-08-09_at_21.28.01_f4f53eee_-_Naitik_Garg_qyxbqe.jpg",
-      linkdin : {
-        link:"https://www.linkedin.com/in/naitik-garg-020318320/",
-        img: Linkedin,
-      },
-      insta : {
-        link:"https://github.com/NkGarg1305",
-        img: Github,
-      }
-    },
-    {
       name : "Raghav Garg",
       position : "Core",
       img: "https://res.cloudinary.com/dp8uze2fi/image/upload/v1762293033/IMG_8759_-_Raghav_Garg_sri9h6.jpg",
@@ -748,8 +735,8 @@ export const Teamdata = {
         link:"github.com/YashmitVaish",
         img: Github,
       }
-    },
-   ]
+    }
+  ]
 }
 
 export const homebrand = {
