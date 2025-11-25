@@ -41,6 +41,8 @@
     height: 8rem;
     width: 8rem;
     border-radius: 100px;
+    object-fit: cover;
+    object-position: center top;
 }
 
 .card .link img{
@@ -101,6 +103,8 @@
     .card img:nth-child(1) {
         height: 3.5rem; 
         width: 3.5rem;
+        object-fit: cover;
+        object-position: center top;
     }
 
     .card .link img{
