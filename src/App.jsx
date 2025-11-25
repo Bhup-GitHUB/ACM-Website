@@ -14,6 +14,7 @@ import ScrollToTop from "./Hooks/Scroll";
 import BootcampPage from "./Pages/Bootcamps/BootcampPage";
 import Blogs from "./Pages/Blogs/Blogs";
 import BlogDetail from "./Pages/Blogs/BlogDetail";
+import DSASheet from "./Pages/DSASheet/DSASheet";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
             <Route path="/team" element={<TeamPage />} />
             <Route path="/blogs" element={<Blogs />} />
             <Route path="/blogs/:slug" element={<BlogDetail />} />
+            <Route path="/dsa" element={<DSASheet />} />
           </Routes>
         </ScrollToTop>
         <Footer />
