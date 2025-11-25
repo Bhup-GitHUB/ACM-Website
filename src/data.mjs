@@ -450,6 +450,32 @@ export const Teamdata = {
     // },
    ],
    core : [
+     {
+      name : "Hrideya",
+      position : "Core",
+      img: "https://res.cloudinary.com/dfraq6spc/image/upload/v1764069865/4cf99197-e5f7-4790-80dd-7fb4f2821499_blj2eh.jpg",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
+     {
+      name : "Yasshaswee",
+      position : "Core",
+      img: "https://res.cloudinary.com/dfraq6spc/image/upload/v1764069762/yasshaswee_e6gczr.png",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
+        img: Github,
+      }
+    },
     {
       name : "Aanya Agarwal",
       position : "Core",
