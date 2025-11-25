@@ -1,0 +1,158 @@
+[
+  {
+    "step": "Math",
+    "lectures": [
+      {
+        "title": "Math Problems",
+        "problems": [
+          {
+            "id": "greatest-sum-divisible-three",
+            "problem": "Greatest Sum Divisible by Three",
+            "link": "https://leetcode.com/problems/greatest-sum-divisible-by-three/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Medium"
+          },
+          {
+            "id": "integer-replacement",
+            "problem": "Integer Replacement",
+            "link": "https://leetcode.com/problems/integer-replacement/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Medium"
+          },
+          {
+            "id": "perfect-number",
+            "problem": "Perfect Number",
+            "link": "https://leetcode.com/problems/perfect-number/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "count-operations-zero",
+            "problem": "Count Operations to Obtain Zero",
+            "link": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "reverse-integer",
+            "problem": "Reverse Integer",
+            "link": "https://leetcode.com/problems/reverse-integer/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Medium"
+          },
+          {
+            "id": "count-primes",
+            "problem": "Count Primes",
+            "link": "https://leetcode.com/problems/count-primes/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Medium"
+          },
+          {
+            "id": "integer-to-roman",
+            "problem": "Integer to Roman",
+            "link": "https://leetcode.com/problems/integer-to-roman/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Medium"
+          },
+          {
+            "id": "ugly-number",
+            "problem": "Ugly Number",
+            "link": "https://leetcode.com/problems/ugly-number/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "step": "Arrays",
+    "lectures": [
+      {
+        "title": "Array Problems",
+        "problems": [
+          {
+            "id": "two-sum",
+            "problem": "Two Sum",
+            "link": "https://leetcode.com/problems/two-sum/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "kids-with-candies",
+            "problem": "Kids With the Greatest Number of Candies",
+            "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "min-ops-divisible-by-three",
+            "problem": "Find Minimum Operations to Make All Elements Divisible by Three",
+            "link": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "max-consecutive-ones",
+            "problem": "Max Consecutive Ones",
+            "link": "https://leetcode.com/problems/max-consecutive-ones/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "set-mismatch",
+            "problem": "Set Mismatch",
+            "link": "https://leetcode.com/problems/set-mismatch/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "build-array-permutation",
+            "problem": "Build Array from Permutation",
+            "link": "https://leetcode.com/problems/build-array-from-permutation/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "type-of-triangle-ii",
+            "problem": "Type of Triangle II",
+            "link": "https://leetcode.com/problems/type-of-triangle-ii/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "divisible-non-divisible-sums",
+            "problem": "Divisible and Non-divisible Sums Difference",
+            "link": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          },
+          {
+            "id": "1-bit-2-bit-characters",
+            "problem": "1-bit and 2-bit Characters",
+            "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters/",
+            "resource_plus": null,
+            "resource_free": null,
+            "difficulty": "Easy"
+          }
+        ]
+      }
+    ]
+  }
+]
