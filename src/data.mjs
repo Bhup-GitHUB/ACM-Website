@@ -450,32 +450,8 @@ export const Teamdata = {
     // },
    ],
    core : [
-     {
-      name : "Hrideya",
-      position : "Core",
-      img: "https://res.cloudinary.com/dfraq6spc/image/upload/v1764069865/4cf99197-e5f7-4790-80dd-7fb4f2821499_blj2eh.jpg",
-      linkdin : {
-        link:"",
-        img: Linkedin,
-      },
-      insta : {
-        link:"",
-        img: Github,
-      }
-    },
-     {
-      name : "Yasshaswee",
-      position : "Core",
-      img: "https://res.cloudinary.com/dfraq6spc/image/upload/v1764069762/yasshaswee_e6gczr.png",
-      linkdin : {
-        link:"",
-        img: Linkedin,
-      },
-      insta : {
-        link:"",
-        img: Github,
-      }
-    },
+    
+    
     {
       name : "Aanya Agarwal",
       position : "Core",
@@ -577,6 +553,19 @@ export const Teamdata = {
       },
       insta : {
         link:"https://github.com/Gourav1805",
+        img: Github,
+      }
+    },
+      {
+      name : "Hrideya",
+      position : "Core",
+      img: "https://res.cloudinary.com/dfraq6spc/image/upload/v1764069865/4cf99197-e5f7-4790-80dd-7fb4f2821499_blj2eh.jpg",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
         img: Github,
       }
     },
@@ -746,6 +735,19 @@ export const Teamdata = {
       },
       insta : {
         link:"https://github.com/vigneshjain",
+        img: Github,
+      }
+    },
+      {
+      name : "Yasshaswee",
+      position : "Core",
+      img: "https://res.cloudinary.com/dfraq6spc/image/upload/v1764204363/IMG_20251125_175343_mtdiu6.jpg",
+      linkdin : {
+        link:"",
+        img: Linkedin,
+      },
+      insta : {
+        link:"",
         img: Github,
       }
     },
